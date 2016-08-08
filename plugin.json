@@ -1,0 +1,16 @@
+{
+  "name": "ClassicFontTheme",
+  "version": "0.0.0",
+  "description": "TODO: write plugin description here and on the Github repository",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.15.1-b6"
+  },
+  "authors": [
+    {
+      "name": "Piwik",
+      "email": "",
+      "homepage": ""
+    }
+  ]
+}
