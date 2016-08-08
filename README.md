@@ -1,19 +1,21 @@
-# Piwik ClassicFontTheme Plugin
+# Piwik ClassicFontTheme
 
 ## Description
 
-Add your plugin description here.
+If you prefer to use a classic font like Arial instead of the system font or if you experience some problems
+with the system font in Piwik 3 install this theme.
 
 ## FAQ
 
-__My question?__
+__How do I activate this theme?__
 
-My answer
+Once you have installed and activated this plugin, go to "Administration => Plugins => Themes" and there you can activate
+it.
+
+__Will all users of my Piwik installation use this theme once activated?__
+
+Yes, in Piwik an activated theme always applies to all users.
 
 ## Changelog
 
-Here goes the changelog text.
-
-## Support
-
-Please direct any feedback to ...
+0.1.0 Initial version

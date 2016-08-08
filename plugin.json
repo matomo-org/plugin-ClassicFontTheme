@@ -1,16 +1,30 @@
 {
-  "name": "ClassicFontTheme",
-  "version": "0.0.0",
-  "description": "TODO: write plugin description here and on the Github repository",
-  "theme": false,
-  "require": {
-    "piwik": ">=2.15.1-b6"
-  },
-  "authors": [
-    {
-      "name": "Piwik",
-      "email": "",
-      "homepage": ""
-    }
-  ]
+    "name": "ClassicFontTheme",
+    "description": "Piwik Platform showcase: example of how to create a simple Theme.",
+    "version": "0.1.0",
+    "theme": true,
+    "stylesheet": "stylesheets/theme.less",
+    "homepage": "https://piwik.org",
+    "license": "GPL v3+",
+    "keywords": ["font", "theme", "arial", "verdana"],
+    "require": {
+        "piwik": ">=3.0.0-b1,<4.0.0-b1"
+    },
+    "support": {
+        "email": "hello@piwik.org",
+        "issues": "https://github.com/piwik/plugin-ClassicFontTheme/issues",
+        "forum": "https://forum.piwik.org/",
+        "irc": "",
+        "source": "https://github.com/piwik/plugin-ClassicFontTheme",
+        "docs": "",
+        "wiki": "",
+        "rss": ""
+    },
+    "authors": [
+        {
+            "name": "Piwik",
+            "email": "hello@piwik.org",
+            "homepage": "http://piwik.org"
+        }
+    ]
 }
