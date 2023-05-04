@@ -1,14 +1,14 @@
 {
     "name": "ClassicFontTheme",
     "description": "Piwik Platform showcase: example of how to create a simple Theme.",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
     "homepage": "https://piwik.org",
     "license": "GPL v3+",
     "keywords": ["font", "theme", "arial", "verdana"],
     "require": {
-        "matomo": ">=4.0.0-b1,<5.0.0-b1"
+        "matomo": ">=5.0.0-b1,<6.0.0-b1"
     },
     "support": {
         "email": "hello@piwik.org",
